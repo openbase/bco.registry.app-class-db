@@ -1,6 +1,15 @@
 {
   "id": "32f56f9d-4197-4d97-9b73-5a35e9492b52",
-  "label": "NightLight",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "NightLight"
+        ]
+      }
+    ]
+  },
   "meta_config": {},
   "binding_config": {
     "meta_config": {}
