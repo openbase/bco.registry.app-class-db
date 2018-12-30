@@ -10,8 +10,13 @@
       }
     ]
   },
+  "description": {},
   "meta_config": {},
   "binding_config": {
     "meta_config": {}
-  }
+  },
+  "priority": "NORMAL",
+  "category": [
+    "COMFORT"
+  ]
 }

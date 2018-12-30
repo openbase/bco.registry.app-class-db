@@ -10,8 +10,12 @@
       }
     ]
   },
+  "description": {},
   "meta_config": {},
   "binding_config": {
     "meta_config": {}
-  }
+  },
+  "category": [
+    "COMFORT"
+  ]
 }
