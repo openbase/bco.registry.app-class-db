@@ -1,0 +1,18 @@
+{
+  "id": "eaaadf54-09de-43ad-b536-1548e577a7b2",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "OpenApiServer"
+        ]
+      }
+    ]
+  },
+  "description": {},
+  "meta_config": {},
+  "binding_config": {
+    "meta_config": {}
+  }
+}
