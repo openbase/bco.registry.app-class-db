@@ -1,0 +1,40 @@
+{
+  "id": "951d1f46-38f0-408e-8a76-2c3fb6766a27",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Device Notification"
+        ]
+      },
+      {
+        "key": "de",
+        "value": [
+          "Gerätebenachrichtigung"
+        ]
+      }
+    ]
+  },
+  "description": {
+    "entry": [
+      {
+        "key": "en",
+        "value": "Informs you about any issues with your devices."
+      },
+      {
+        "key": "de",
+        "value": "Informiert dich wenn mit deinen Geräten etwas nicht stimmt."
+      }
+    ]
+  },
+  "meta_config": {},
+  "binding_config": {
+    "binding_id": "",
+    "meta_config": {}
+  },
+  "priority": "NORMAL",
+  "category": [
+    "SAFETY"
+  ]
+}
